@@ -1,0 +1,63 @@
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\bin\Debug\net6.0-windows\MatrixMultiplication.exe
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\bin\Debug\net6.0-windows\MatrixMultiplication.deps.json
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\bin\Debug\net6.0-windows\MatrixMultiplication.runtimeconfig.json
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\bin\Debug\net6.0-windows\MatrixMultiplication.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\bin\Debug\net6.0-windows\MatrixMultiplication.pdb
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.csproj.AssemblyReference.cache
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\App.g.cs
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication_MarkupCompile.cache
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication_MarkupCompile.lref
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MainWindow.baml
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.g.resources
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.AssemblyInfoInputs.cache
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.AssemblyInfo.cs
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.csproj.CoreCompileInputs.cache
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\refint\MatrixMultiplication.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.pdb
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.genruntimeconfig.cache
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\ref\MatrixMultiplication.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\bin\Debug\net6.0-windows\MatrixMultiplication.exe
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\bin\Debug\net6.0-windows\MatrixMultiplication.deps.json
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\bin\Debug\net6.0-windows\MatrixMultiplication.runtimeconfig.json
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\bin\Debug\net6.0-windows\MatrixMultiplication.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\bin\Debug\net6.0-windows\MatrixMultiplication.pdb
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication_MarkupCompile.cache
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication_MarkupCompile.lref
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.g.resources
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.AssemblyInfoInputs.cache
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.AssemblyInfo.cs
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\refint\MatrixMultiplication.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.pdb
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.genruntimeconfig.cache
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\ref\MatrixMultiplication.dll
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\bin\Debug\net6.0-windows\MatrixMultiplication.exe
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\bin\Debug\net6.0-windows\MatrixMultiplication.deps.json
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\bin\Debug\net6.0-windows\MatrixMultiplication.runtimeconfig.json
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\bin\Debug\net6.0-windows\MatrixMultiplication.dll
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\bin\Debug\net6.0-windows\MatrixMultiplication.pdb
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.csproj.AssemblyReference.cache
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication_MarkupCompile.cache
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication_MarkupCompile.lref
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.g.resources
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.AssemblyInfoInputs.cache
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.AssemblyInfo.cs
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.dll
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\refint\MatrixMultiplication.dll
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.pdb
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\MatrixMultiplication.genruntimeconfig.cache
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplication\obj\Debug\net6.0-windows\ref\MatrixMultiplication.dll

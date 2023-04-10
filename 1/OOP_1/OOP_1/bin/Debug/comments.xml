@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OOP_1</name>
+    </assembly>
+    <members>
+        <member name="M:OOP_1.FirstAdditionalTask.convertButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            Валидация данных в форме
+            Вычисление и отображение результата
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:OOP_1.FirstAdditionalTask.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:OOP_1.FirstAdditionalTask.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:OOP_1.FirstAdditionalTask.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:OOP_1.FirstExercise">
+            <summary>
+            First exercise - using casts
+            Validate form to enter correct double number
+            </summary>
+        </member>
+        <member name="M:OOP_1.FirstExercise.textBox1_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            Validate entered text
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:OOP_1.FirstExercise.ToSecondExerciseButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            Create new form for second exercise
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:OOP_1.FirstExercise.button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            Create new form for third exercise
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:OOP_1.FirstExercise.components">
+            <summary>
+            Обязательная переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:OOP_1.FirstExercise.Dispose(System.Boolean)">
+            <summary>
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:OOP_1.FirstExercise.InitializeComponent">
+            <summary>
+            Требуемый метод для поддержки конструктора — не изменяйте 
+            содержимое этого метода с помощью редактора кода.
+            </summary>
+        </member>
+        <member name="M:OOP_1.Program.Main">
+            <summary>
+            Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="T:OOP_1.SecondExercise">
+            <summary>
+            Задание 2: Вычислить квадратный корень с контролем точности
+            </summary>
+        </member>
+        <member name="M:OOP_1.SecondExercise.сalculateButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            Validate entered number
+            Calculate sqrt by 2 methods using SqrtCalculator
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:OOP_1.SecondExercise.iterationButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            Iteration button logic
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:OOP_1.SecondExercise.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:OOP_1.SecondExercise.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:OOP_1.SecondExercise.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:OOP_1.ThirdExercise">
+            <summary>
+            Class for third exercise
+            Задание 3: Конвертация целочисленных данных в бинарные
+            </summary>
+        </member>
+        <member name="F:OOP_1.ThirdExercise.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:OOP_1.ThirdExercise.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:OOP_1.ThirdExercise.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:OOP_1.TypeConversionExamples">
+            <summary>
+            Класс демонстрирует возможности кастов(преобразований типов) в языке C#
+            </summary>
+        </member>
+        <member name="M:OOP_1.TypeConversionExamples.ImplicitConversions">
+            <summary>
+            1 Задание. 1 пункт.
+            </summary>
+        </member>
+        <member name="M:OOP_1.TypeConversionExamples.ExplicitConversations">
+            <summary>
+            1 Задание. 2 пункт.
+            </summary>
+            <exception cref="T:System.OverflowException"></exception>
+        </member>
+        <member name="M:OOP_1.TypeConversionExamples.ThirdTask">
+            <summary>
+            1 задание. 3 пункт.
+            Метод показывает, что приведение базового типа к производному невозможно.
+            А производный к базовому - возможно
+            </summary>
+        </member>
+        <member name="M:OOP_1.TypeConversionExamples.AsIsOperators">
+            <summary>
+            1 задание. 4 пункт.
+            </summary>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+        <member name="M:OOP_1.TypeConversionExamples.ImplicitExplicitExamples">
+            <summary>
+            1 Задание. 5 пункт.
+            </summary>
+        </member>
+        <member name="M:OOP_1.TypeConversionExamples.ConvertDemonstration">
+            <summary>
+            1 Задание. 6 пункт.
+            Convert, Parse, TryParse.
+            </summary>
+        </member>
+        <member name="M:OOP_1.TypeConversionExamples.GetConvertCast``1(System.Object)">
+            <summary>
+            Вспомогательный метод
+            Преобразует любой тип в любой другой, если это возможно.
+            </summary>
+            <typeparam name="T">Тип, в который необходимо преобразовать</typeparam>
+            <param name="someObject">Преобразуемый тип</param>
+            <returns></returns>
+        </member>
+        <member name="T:OOP_1.StringExample">
+            <summary>
+            Вспомогательный класс строки
+            </summary>
+        </member>
+        <member name="T:OOP_1.Foo">
+            <summary>
+            Вспомогательный класс для демонстрации каста классов
+            </summary>
+        </member>
+        <member name="T:OOP_1.Boo">
+            <summary>
+            Вспомогательный класс для демонстрации каста классов
+            Производный от: Foo
+            </summary>
+        </member>
+        <member name="T:OOP_1.Coo">
+            <summary>
+            Вспомогательный класс для демонстрации каста классов
+            Производый от: Foo, Boo
+            </summary>
+        </member>
+        <member name="T:OOP_1.Properties.Resources">
+            <summary>
+              Класс ресурсов со строгим типом для поиска локализованных строк и пр.
+            </summary>
+        </member>
+        <member name="P:OOP_1.Properties.Resources.ResourceManager">
+            <summary>
+              Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
+            </summary>
+        </member>
+        <member name="P:OOP_1.Properties.Resources.Culture">
+            <summary>
+              Переопределяет свойство CurrentUICulture текущего потока для всех
+              подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,40 @@
+﻿<Window x:Class="MatrixMultiplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MatrixMultiplication"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="mainGrid">
+        <Button x:Name="calculateButton" Content="Calculate" Margin="30,332,622,45" FontFamily="Century Gothic" FontSize="20" Click="calculateButton_Click"/>
+        <GroupBox x:Name="firstGridWrapper" Margin="10,10,0, 0" VerticalAlignment="Top" HorizontalAlignment="Left" Height="162" Width="315">
+            <ScrollViewer HorizontalScrollBarVisibility="Visible">
+                <Grid x:Name="firstGrid"/>
+            </ScrollViewer>
+        </GroupBox>
+        <GroupBox Margin="226,217,226,10">
+            <ScrollViewer HorizontalScrollBarVisibility="Visible">
+                <Grid x:Name="resultGrid"/>
+            </ScrollViewer>
+        </GroupBox>
+        <GroupBox x:Name="secondGridWrapper" Margin="455,10,10,0" VerticalAlignment="Top" HorizontalAlignment="Right" Height="162" Width="315">
+            <ScrollViewer HorizontalScrollBarVisibility="Visible">
+                <Grid x:Name="secondGrid"/>
+            </ScrollViewer>
+        </GroupBox>
+        <TextBox x:Name="firstMatrixRows" HorizontalAlignment="Left" Margin="30,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="163" FontFamily="Century Gothic" TextAlignment="Center" TextChanged="matrixDimensions_TextChanged"/>
+        <TextBox x:Name="firstMatrixColumns" HorizontalAlignment="Left" Margin="210,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="164" FontFamily="Century Gothic" TextAlignment="Center" TextChanged="matrixDimensions_TextChanged"/>
+        <TextBox x:Name="secondMatrixColumns" HorizontalAlignment="Left" Margin="607,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="163" FontFamily="Century Gothic" TextAlignment="Center" TextChanged="matrixDimensions_TextChanged"/>
+        <Label x:Name="firstMatrixRowsLabel" Content="Enter rows of 1 matrix:" HorizontalAlignment="Left" Margin="30,177,0,0" VerticalAlignment="Top" Width="163" Height="23" FontFamily="Century Gothic"/>
+        <Label x:Name="firstMatrixColumnsLabel" Content="Enter columns of 1 matrix:" HorizontalAlignment="Left" Margin="211,177,0,0" VerticalAlignment="Top" Width="162" Height="23" FontFamily="Century Gothic"/>
+        <Label x:Name="secondMatrixColumnsLabel" Content="Enter columns of 2 matrix:" HorizontalAlignment="Left" Margin="607,177,0,0" VerticalAlignment="Top" Width="162" Height="23" FontFamily="Century Gothic"/>
+        <Button x:Name="fillMatrices" HorizontalAlignment="Left" Margin="30,254,0,0" VerticalAlignment="Top" Width="102" Height="43" Click="fillMatrices_Click">
+            <TextBlock TextWrapping="Wrap" FontSize="14" TextAlignment="Center">
+                    Fill matrices random values
+            </TextBlock>
+        </Button>
+        <TextBox x:Name="secondMatrixRows" HorizontalAlignment="Left" Margin="426,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="164" FontFamily="Century Gothic" TextAlignment="Center" TextChanged="matrixDimensions_TextChanged"/>
+        <Label x:Name="secondMatrixRowsLabel" Content="Enter columns of 2 matrix:" HorizontalAlignment="Left" Margin="427,177,0,0" VerticalAlignment="Top" Width="162" Height="23" FontFamily="Century Gothic"/>
+    </Grid>
+</Window>

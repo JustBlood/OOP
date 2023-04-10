@@ -1,0 +1,20 @@
+﻿<Window x:Class="OOP_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OOP_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="ShutDownButton" Content="Shut Down" HorizontalAlignment="Left" Margin="39,36,0,0" VerticalAlignment="Top" Click="ShutDownButton_Click" Height="39" Width="73"/>
+        <GroupBox Margin="165,35,196,203">
+            <ScrollViewer>
+                <TextBlock x:Name="exceptionsHandlerTextBlock" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top"/>
+            </ScrollViewer>
+        </GroupBox>
+        <Label x:Name="failures" Content="Неудачные запуски:" HorizontalAlignment="Left" Margin="165,253,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="successes" Content="Успешные запуски:" HorizontalAlignment="Left" Margin="489,253,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

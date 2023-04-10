@@ -1,0 +1,208 @@
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\testhost.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplication.deps.json
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplication.runtimeconfig.json
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplication.exe
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\testhost.exe
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplicationTests.deps.json
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplicationTests.runtimeconfig.json
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplicationTests.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplicationTests.pdb
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplication.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplication.pdb
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.csproj.AssemblyReference.cache
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.GeneratedMSBuildEditorConfig.editorconfig
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.AssemblyInfoInputs.cache
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.AssemblyInfo.cs
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.csproj.CoreCompileInputs.cache
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.csproj.CopyComplete
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\refint\MatrixMultiplicationTests.dll
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.pdb
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.genruntimeconfig.cache
+E:\prog\prog_c#\Internship\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\ref\MatrixMultiplicationTests.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\testhost.exe
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\testhost.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplication.deps.json
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplication.runtimeconfig.json
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplication.exe
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplicationTests.deps.json
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplicationTests.runtimeconfig.json
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplicationTests.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplicationTests.pdb
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplication.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\bin\Debug\net6.0-windows\MatrixMultiplication.pdb
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.AssemblyInfoInputs.cache
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.AssemblyInfo.cs
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.csproj.CopyComplete
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\refint\MatrixMultiplicationTests.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.pdb
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\MatrixMultiplicationTests.genruntimeconfig.cache
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\MatrixMultiplicationTests\obj\Debug\net6.0-windows\ref\MatrixMultiplicationTests.dll

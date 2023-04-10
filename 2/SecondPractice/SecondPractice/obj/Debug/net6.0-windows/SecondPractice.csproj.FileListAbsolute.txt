@@ -1,0 +1,63 @@
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\bin\Debug\net6.0-windows\SecondPractice.exe
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\bin\Debug\net6.0-windows\SecondPractice.deps.json
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\bin\Debug\net6.0-windows\SecondPractice.runtimeconfig.json
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\bin\Debug\net6.0-windows\SecondPractice.dll
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\bin\Debug\net6.0-windows\SecondPractice.pdb
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.csproj.AssemblyReference.cache
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\App.g.cs
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice_MarkupCompile.cache
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice_MarkupCompile.lref
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\MainWindow.baml
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.g.resources
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.AssemblyInfoInputs.cache
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.AssemblyInfo.cs
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.csproj.CoreCompileInputs.cache
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.dll
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\refint\SecondPractice.dll
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.pdb
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.genruntimeconfig.cache
+E:\prog\prog_c#\Internship\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\ref\SecondPractice.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\bin\Debug\net6.0-windows\SecondPractice.exe
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\bin\Debug\net6.0-windows\SecondPractice.deps.json
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\bin\Debug\net6.0-windows\SecondPractice.runtimeconfig.json
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\bin\Debug\net6.0-windows\SecondPractice.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\bin\Debug\net6.0-windows\SecondPractice.pdb
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice_MarkupCompile.cache
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice_MarkupCompile.lref
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.g.resources
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.AssemblyInfoInputs.cache
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.AssemblyInfo.cs
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\refint\SecondPractice.dll
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.pdb
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.genruntimeconfig.cache
+C:\Users\User\Dropbox\ПК\Pictures\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\ref\SecondPractice.dll
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\bin\Debug\net6.0-windows\SecondPractice.exe
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\bin\Debug\net6.0-windows\SecondPractice.deps.json
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\bin\Debug\net6.0-windows\SecondPractice.runtimeconfig.json
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\bin\Debug\net6.0-windows\SecondPractice.dll
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\bin\Debug\net6.0-windows\SecondPractice.pdb
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.csproj.AssemblyReference.cache
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice_MarkupCompile.cache
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice_MarkupCompile.lref
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.g.resources
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.AssemblyInfoInputs.cache
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.AssemblyInfo.cs
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.dll
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\refint\SecondPractice.dll
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.pdb
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\SecondPractice.genruntimeconfig.cache
+C:\Users\User\AllMine\уник\2 курс\3 квартиль\OOP\2\SecondPractice\SecondPractice\obj\Debug\net6.0-windows\ref\SecondPractice.dll

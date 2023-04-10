@@ -1,0 +1,19 @@
+﻿<Window x:Class="SecondPractice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SecondPractice"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="inputValues" HorizontalAlignment="Left" Margin="59,109,0,0" ScrollViewer.CanContentScroll="True"  TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="inputValues_TextChanged" Height="50"/>
+        <Label Content="Введите целые числа через пробел" HorizontalAlignment="Left" Margin="59,57,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="findGCM" Content="Найти НОД!" HorizontalAlignment="Left" Margin="208,124,0,0" VerticalAlignment="Top" Width="80" Click="findGCM_Click"/>
+        <Label x:Name="resultEuclidLabel" Content="НОД, согласно алгоритму Евклида: " HorizontalAlignment="Left" Margin="59,175,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="resultSteinLabel" Content="НОД, согласно алгоритму Штейна: " HorizontalAlignment="Left" Margin="59,253,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="executingTimeEuclid" Content="Затраченное время:" HorizontalAlignment="Left" Margin="59,206,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="executingTimeStein" Content="Затраченное время:" HorizontalAlignment="Left" Margin="59,284,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
