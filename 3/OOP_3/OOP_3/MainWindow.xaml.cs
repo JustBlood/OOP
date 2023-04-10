@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using OOP_4;
 
 namespace OOP_3
 {
@@ -20,6 +21,8 @@ namespace OOP_3
     /// </summary>
     public partial class MainWindow : Window
     {
+        TestCaseResult[] results = new TestCaseResult[10];
+        List<bool> isSuccessIteration = new List<bool>();
         public MainWindow()
         {
             InitializeComponent();
@@ -27,6 +30,7 @@ namespace OOP_3
 
         private void ShutDownButton_Click(object sender, RoutedEventArgs e)
         {
+            bool isSuccess = true;
             var deviceSwitch = new SwitchDevice();
             try
             {
@@ -34,7 +38,8 @@ namespace OOP_3
             }
             catch(PowerGeneratorCommsException ex)
             {
-                exceptionsHandlerTextBlock.Text += $"{ex.Message} Exception in step 1:\n";
+                isSuccess = false;
+                exceptionsHandlerTextBlock.Text += $"{ex.GetType().Name} Exception in step 1:\n{ex.Message}\n\n";
             }
 
             try
@@ -44,7 +49,8 @@ namespace OOP_3
             }
             catch(Exception ex)
             {
-                exceptionsHandlerTextBlock.Text += $"{ex.Message} Exception in step 2:\n";
+                isSuccess = false;
+                exceptionsHandlerTextBlock.Text += $"{ex.GetType().Name} Exception in step 2:\n{ex.Message}\n\n";
             }
 
             try
@@ -54,7 +60,8 @@ namespace OOP_3
             }
             catch(Exception ex)
             {
-                exceptionsHandlerTextBlock.Text += $"{ex.Message} Exception in step 3:\n";
+                isSuccess = false;
+                exceptionsHandlerTextBlock.Text += $"{ex.GetType().Name} Exception in step 3:\n{ex.Message}\n\n";
             }
             try
             {
@@ -63,7 +70,8 @@ namespace OOP_3
             }
             catch (Exception ex)
             {
-                exceptionsHandlerTextBlock.Text += $"{ex.Message} Exception in step 4:\n";
+                isSuccess = false;
+                exceptionsHandlerTextBlock.Text += $"{ex.GetType().Name} Exception in step 4:\n{ex.Message}\n\n";
             }
             try
             {
@@ -72,7 +80,8 @@ namespace OOP_3
             }
             catch (Exception ex)
             {
-                exceptionsHandlerTextBlock.Text += $"{ex.Message} Exception in step 5:\n";
+                isSuccess = false;
+                exceptionsHandlerTextBlock.Text += $"{ex.GetType().Name} Exception in step 5:\n{ex.Message}\n\n";
             }
             try
             {
@@ -81,7 +90,8 @@ namespace OOP_3
             }
             catch (Exception ex)
             {
-                exceptionsHandlerTextBlock.Text += $"{ex.Message} Exception in step 6:\n";
+                isSuccess = false;
+                exceptionsHandlerTextBlock.Text += $"{ex.GetType().Name} Exception in step 6:\n{ex.Message}\n\n";
             }
             try
             {
@@ -90,7 +100,8 @@ namespace OOP_3
             }
             catch (Exception ex)
             {
-                exceptionsHandlerTextBlock.Text += $"{ex.Message} Exception in step 7:\n";
+                isSuccess = false;
+                exceptionsHandlerTextBlock.Text += $"{ex.GetType().Name} Exception in step 7:\n{ex.Message}\n\n";
             }
             try
             {
@@ -98,8 +109,12 @@ namespace OOP_3
             }
             catch (SignallingException ex)
             {
-                exceptionsHandlerTextBlock.Text += $"{ex.Message} Exception in step 8:\n";
+                isSuccess = false;
+                exceptionsHandlerTextBlock.Text += $"{ex.GetType().Name} Exception in step 8:\n{ex.Message}\n\n";
             }
+            isSuccessIteration.Add(isSuccess);
+            successes.Content = successes.Content.ToString().Split(':')[0] + ": " + isSuccessIteration.Where(x => x).Count();
+            failures.Content = failures.Content.ToString().Split(':')[0] + ": " + isSuccessIteration.Where(x => !x).Count();
         }
     }
 }

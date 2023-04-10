@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mbzmUgSGzyYYQJPozbjPtTTyTLWbhAMpUMe63gmBqD1gDdaa2hw/lmyBPejJG0w6UaDqTrgR3t+3MH4l6oCs9A==",
+  "dgSpecHash": "UKTQNwAazRuKdcz1RPEHrthEC3R1u1204XD4Gm4ZbSGn8soxjMNhJqR2v6ISUCVBdazyrzVQzSMuAbQqvY/V8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Dropbox\\ПК\\Pictures\\уник\\2 курс\\3 квартиль\\OOP\\4\\OOP_4\\ComplexTests\\ComplexTests.csproj",
+  "projectFilePath": "C:\\Users\\User\\AllMine\\уник\\2 курс\\3 квартиль\\OOP\\4\\OOP_4\\ComplexTests\\ComplexTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

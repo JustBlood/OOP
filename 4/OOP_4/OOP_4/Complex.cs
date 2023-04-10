@@ -12,11 +12,11 @@ namespace OOP_4
     {
         public double RealPart { get; set; }
         public double ImaginaryPart { get; set; }
-        public readonly complex Mod
+        public readonly double Mod
         {
             get
             {
-                return new complex(Math.Abs(RealPart), Math.Abs(ImaginaryPart));
+                return Math.Sqrt(Math.Pow(RealPart, 2) + Math.Pow(ImaginaryPart, 2));
             }
         }
         /// <summary>
@@ -59,7 +59,7 @@ namespace OOP_4
         public override string ToString()
         {
             var imaginaryMark = ImaginaryPart > 0 ? '+' : '-';
-            return $"{RealPart} {imaginaryMark} {Mod.ImaginaryPart}i";
+            return $"{RealPart} {imaginaryMark} {Math.Abs(ImaginaryPart)}i";
         }
 
         public static implicit operator complex(string complex)

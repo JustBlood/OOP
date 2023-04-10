@@ -13,6 +13,8 @@
                 <TextBlock x:Name="exceptionsHandlerTextBlock" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top"/>
             </ScrollViewer>
         </GroupBox>
+        <Label x:Name="failures" Content="Неудачные запуски:" HorizontalAlignment="Left" Margin="165,253,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="successes" Content="Успешные запуски:" HorizontalAlignment="Left" Margin="489,253,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

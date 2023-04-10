@@ -35,5 +35,23 @@ namespace ComplexTests
             firstCopy = "-1 - 3i";
             Assert.That(firstCopy == first, "Same values isn't equals");
         }
+        [Test]
+        public void ModTesting()
+        {
+            var testCases = new[]
+            {
+                (new complex(78, 3), 78.05767098754613),
+                (new complex(34, 13), 36.40054944640259),
+                (new complex(14, 13), 19.1049731745428),
+                (new complex(9, 23), 24.698178070456937),
+                (new complex(90, 89), 126.57408897558773),
+            };
+
+            foreach (var test in testCases)
+            {
+                Assert.That(test.Item1.Mod - test.Item2 < 1e-9, $"Mod isn't correct {test.Item1.Mod}, {test.Item2}");
+            }
+
+        }
     }
 }
